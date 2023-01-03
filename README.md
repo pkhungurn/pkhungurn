@@ -1,8 +1,8 @@
 ### ประมุข ขันเงิน
 
-Thai: ประมุข ขันเงิน
-English: Pramook Khungurn
-Japanese:　プラムック・カンガーン
+Thai: ประมุข ขันเงิน<br>
+English: Pramook Khungurn<br>
+Japanese:　プラムック・カンガーン<br>
 
 I'm a software engineer and researcher from Thailand. I'm interested in computer vision, computer graphics, machine learning, algorithms, and mathematics in general. 
 
