@@ -1,16 +1,15 @@
-### Hi there 👋
+### ประมุข ขันเงิน
 
-<!--
-**pkhungurn/pkhungurn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thai: ประมุข ขันเงิน
+English: Pramook Khungurn
+Japanese:　プラムック・カンガーン
 
-Here are some ideas to get you started:
+I'm a software engineer and researcher from Thailand. I'm interested in computer vision, computer graphics, machine learning, algorithms, and mathematics in general. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowadays, I mainly work on the application of machine learning to character animation. I have created several models that can create simple animations of an anime character given as a single image.
+
+* [talking-head-anime-demo](http://github.com/pkhungurn/talking-head-anime-demo)
+* [talking-head-anime-2-demo](http://github.com/pkhungurn/talking-head-anime-2-demo)
+* [talking-head-anime-3-demo](http://github.com/pkhungurn/talking-head-anime-3-demo)
+
+You can find more information about my work and experience at [my website](http://pkhungurn.github.io/)
