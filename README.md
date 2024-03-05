@@ -11,5 +11,6 @@ Nowadays, I mainly work on the application of machine learning to character anim
 * [talking-head-anime-demo](http://github.com/pkhungurn/talking-head-anime-demo)
 * [talking-head-anime-2-demo](http://github.com/pkhungurn/talking-head-anime-2-demo)
 * [talking-head-anime-3-demo](http://github.com/pkhungurn/talking-head-anime-3-demo)
+* [talking-head-anime-4-demo](http://github.com/pkhungurn/talking-head-anime-4-demo)
 
 You can find more information about my work and experience at [my website](http://pkhungurn.github.io/)
